@@ -352,11 +352,11 @@
         "Name": "Wild",
         "Id": 10,
         "reelInstance": {
-          "0": 11,
-          "1": 10,
+          "0": 10,
+          "1": 9,
           "2": 9,
-          "3": 6,
-          "4": 5
+          "3": 5,
+          "4": 4
         },
         "description": "Substitutes for all symbols except Bonus.",
         "useWildSub": false
@@ -371,9 +371,9 @@
           "3": 6,
           "4": 6
         },
-        "description": "Triggers bonus game if 5 icons appear anywhere in the result matrix.",
+        "description": "Triggers bonus game if 4 icons appear anywhere in the result matrix.",
         "useWildSub": false,
-        "symbolCount": 5
+        "symbolCount": 4
       }
     ]
   }
