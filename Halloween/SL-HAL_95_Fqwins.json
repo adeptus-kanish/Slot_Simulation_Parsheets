@@ -1,0 +1,379 @@
+{
+    "id": "SL-HAL",
+    "matrix": {
+      "x": 5,
+      "y": 3
+    },
+    "linesApiData": [
+      [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        1,
+        0,
+        0
+      ],
+      [
+        0,
+        1,
+        2,
+        1,
+        0
+      ],
+      [
+        1,
+        0,
+        0,
+        0,
+        1
+      ],
+      [
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      [
+        1,
+        2,
+        2,
+        2,
+        1
+      ],
+      [
+        2,
+        1,
+        0,
+        1,
+        2
+      ],
+      [
+        2,
+        2,
+        1,
+        2,
+        2
+      ],
+      [
+        2,
+        2,
+        2,
+        2,
+        2
+      ]
+    ],
+    "linesCount": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "bets": [
+      0.01,
+      0.02,
+      0.04,
+      0.05,
+      0.07,
+      0.1,
+      0.2,
+      0.4,
+      0.5,
+      0.7,
+      1,
+      1.5,
+      2
+    ],
+    "bonus": {
+      "type": "tap",
+      "isEnabled": true,
+      "noOfItem": 4,
+      "payOut": [
+        30,
+        20,
+        10,
+        0
+      ],
+      "payOutProb": [
+
+      ]
+    },
+    "gamble": {
+      "type": "card",
+      "isEnabled": true
+    },
+    "Symbols": [
+      {
+        "Name": "0",
+        "Id": 0,
+        "reelInstance": {
+          "0": 7,
+          "1": 7,
+          "2": 7,
+          "3": 7,
+          "4": 7
+        },
+        "useWildSub": true,
+        "multiplier": [
+          [
+            55,
+            0
+          ],
+          [
+            20,
+            0
+          ],
+          [
+            10,
+            0
+          ]
+        ]
+      },
+      {
+        "Name": "1",
+        "Id": 1,
+        "reelInstance": {
+          "0": 7,
+          "1": 7,
+          "2": 7,
+          "3": 7,
+          "4": 7
+        },
+        "useWildSub": true,
+        "multiplier": [
+          [
+            55,
+            0
+          ],
+          [
+            20,
+            0
+          ],
+          [
+            10,
+            0
+          ]
+        ]
+      },
+      {
+        "Name": "2",
+        "Id": 2,
+        "reelInstance": {
+          "0": 7,
+          "1": 7,
+          "2": 7,
+          "3": 7,
+          "4": 7
+        },
+        "useWildSub": true,
+        "multiplier": [
+          [
+            55,
+            0
+          ],
+          [
+            20,
+            0
+          ],
+          [
+            10,
+            0
+          ]
+        ]
+      },
+      {
+        "Name": "3",
+        "Id": 3,
+        "reelInstance": {
+          "0": 7,
+          "1": 7,
+          "2": 7,
+          "3": 7,
+          "4": 7
+        },
+        "useWildSub": true,
+        "multiplier": [
+          [
+            55,
+            0
+          ],
+          [
+            20,
+            0
+          ],
+          [
+            10,
+            0
+          ]
+        ]
+      },
+      {
+        "Name": "4",
+        "Id": 4,
+        "reelInstance": {
+          "0": 7,
+          "1": 7,
+          "2": 7,
+          "3": 7,
+          "4": 7
+        },
+        "useWildSub": true,
+        "multiplier": [
+          [
+            55,
+            0
+          ],
+          [
+            20,
+            0
+          ],
+          [
+            10,
+            0
+          ]
+        ]
+      },
+      {
+        "Name": "5",
+        "Id": 5,
+        "reelInstance": {
+          "0": 7,
+          "1": 7,
+          "2": 7,
+          "3": 7,
+          "4": 7
+        },
+        "useWildSub": true,
+        "multiplier": [
+          [
+            55,
+            0
+          ],
+          [
+            20,
+            0
+          ],
+          [
+            10,
+            0
+          ]
+        ]
+      },
+      {
+        "Name": "6",
+        "Id": 6,
+        "reelInstance": {
+          "0": 7,
+          "1": 7,
+          "2": 7,
+          "3": 7,
+          "4": 7
+        },
+        "useWildSub": true,
+        "multiplier": [
+          [
+            55,
+            0
+          ],
+          [
+            20,
+            0
+          ],
+          [
+            10,
+            0
+          ]
+        ]
+      },
+      {
+        "Name": "7",
+        "Id": 7,
+        "reelInstance": {
+          "0": 7,
+          "1": 7,
+          "2": 7,
+          "3": 7,
+          "4": 7
+        },
+        "useWildSub": true,
+        "multiplier": [
+          [
+            55,
+            0
+          ],
+          [
+            20,
+            0
+          ],
+          [
+            10,
+            0
+          ]
+        ]
+      },
+      {
+        "Name": "8",
+        "Id": 8,
+        "reelInstance": {
+          "0": 7,
+          "1": 7,
+          "2": 7,
+          "3": 7,
+          "4": 7
+        },
+        "useWildSub": true,
+        "multiplier": [
+          [
+            55,
+            0
+          ],
+          [
+            20,
+            0
+          ],
+          [
+            10,
+            0
+          ]
+        ]
+      },
+      {
+        "Name": "Wild",
+        "Id": 10,
+        "reelInstance": {
+          "0": 11,
+          "1": 10,
+          "2": 9,
+          "3": 6,
+          "4": 5
+        },
+        "description": "Substitutes for all symbols except Bonus.",
+        "useWildSub": false
+      },
+      {
+        "Name": "Bonus",
+        "Id": 9,
+        "reelInstance": {
+          "0": 6,
+          "1": 6,
+          "2": 6,
+          "3": 6,
+          "4": 6
+        },
+        "description": "Triggers bonus game if 5 icons appear anywhere in the result matrix.",
+        "useWildSub": false,
+        "symbolCount": 5
+      }
+    ]
+  }
