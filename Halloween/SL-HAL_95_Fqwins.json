@@ -127,7 +127,7 @@
         "useWildSub": true,
         "multiplier": [
           [
-            55,
+            60,
             0
           ],
           [
@@ -153,7 +153,7 @@
         "useWildSub": true,
         "multiplier": [
           [
-            55,
+            60,
             0
           ],
           [
@@ -179,7 +179,7 @@
         "useWildSub": true,
         "multiplier": [
           [
-            55,
+            60,
             0
           ],
           [
@@ -205,7 +205,7 @@
         "useWildSub": true,
         "multiplier": [
           [
-            55,
+            60,
             0
           ],
           [
@@ -231,7 +231,7 @@
         "useWildSub": true,
         "multiplier": [
           [
-            55,
+            60,
             0
           ],
           [
@@ -257,7 +257,7 @@
         "useWildSub": true,
         "multiplier": [
           [
-            55,
+            60,
             0
           ],
           [
@@ -283,7 +283,7 @@
         "useWildSub": true,
         "multiplier": [
           [
-            55,
+            60,
             0
           ],
           [
@@ -309,7 +309,7 @@
         "useWildSub": true,
         "multiplier": [
           [
-            55,
+            60,
             0
           ],
           [
@@ -335,7 +335,7 @@
         "useWildSub": true,
         "multiplier": [
           [
-            55,
+            60,
             0
           ],
           [
@@ -354,7 +354,7 @@
         "reelInstance": {
           "0": 10,
           "1": 9,
-          "2": 9,
+          "2": 8,
           "3": 5,
           "4": 4
         },
