@@ -125,15 +125,15 @@
         "useWildSub": true,
         "multiplier": [
           [
-            55,
+            70,
             0
           ],
           [
-            15,
+            25,
             0
           ],
           [
-            6,
+            10,
             0
           ]
         ]
@@ -151,15 +151,15 @@
         "useWildSub": true,
         "multiplier": [
           [
-            55,
+            70,
             0
           ],
           [
-            15,
+            25,
             0
           ],
           [
-            6,
+            10,
             0
           ]
         ]
@@ -177,15 +177,15 @@
         "useWildSub": true,
         "multiplier": [
           [
-            55,
+            70,
             0
           ],
           [
-            15,
+            25,
             0
           ],
           [
-            6,
+            10,
             0
           ]
         ]
@@ -203,15 +203,15 @@
         "useWildSub": true,
         "multiplier": [
           [
-            55,
+            70,
             0
           ],
           [
-            15,
+            25,
             0
           ],
           [
-            6,
+            10,
             0
           ]
         ]
@@ -229,15 +229,15 @@
         "useWildSub": true,
         "multiplier": [
           [
-            55,
+            70,
             0
           ],
           [
-            15,
+            25,
             0
           ],
           [
-            6,
+            10,
             0
           ]
         ]
@@ -255,15 +255,15 @@
         "useWildSub": true,
         "multiplier": [
           [
-            55,
+            70,
             0
           ],
           [
-            15,
+            25,
             0
           ],
           [
-            6,
+            10,
             0
           ]
         ]
@@ -281,15 +281,15 @@
         "useWildSub": true,
         "multiplier": [
           [
-            55,
+            70,
             0
           ],
           [
-            15,
+            25,
             0
           ],
           [
-            6,
+            10,
             0
           ]
         ]
@@ -307,15 +307,15 @@
         "useWildSub": true,
         "multiplier": [
           [
-            55,
+            70,
             0
           ],
           [
-            15,
+            25,
             0
           ],
           [
-            6,
+            10,
             0
           ]
         ]
@@ -338,11 +338,11 @@
         "Name": "Wild",
         "Id": 9,
         "reelInstance": {
-          "0": 13,
-          "1": 13,
-          "2": 13,
-          "3": 13,
-          "4": 13
+          "0": 10,
+          "1": 9,
+          "2": 8,
+          "3": 7,
+          "4": 5
         },
         "description": "Substitutes for all symbols except Bonus.",
         "useWildSub": false,
