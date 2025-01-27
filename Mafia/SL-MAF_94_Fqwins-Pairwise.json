@@ -125,11 +125,11 @@
         "useWildSub": true,
         "multiplier": [
           [
-            75,
+            50,
             0
           ],
           [
-            25,
+            15,
             0
           ],
           [
@@ -151,11 +151,11 @@
         "useWildSub": true,
         "multiplier": [
           [
-            75,
+            50,
             0
           ],
           [
-            25,
+            15,
             0
           ],
           [
@@ -177,11 +177,11 @@
         "useWildSub": true,
         "multiplier": [
           [
-            100,
+            75,
             0
           ],
           [
-            40,
+            25,
             0
           ],
           [
@@ -203,11 +203,11 @@
         "useWildSub": true,
         "multiplier": [
           [
-            100,
+            75,
             0
           ],
           [
-            40,
+            25,
             0
           ],
           [
@@ -229,11 +229,11 @@
         "useWildSub": true,
         "multiplier": [
           [
-            150,
+            100,
             0
           ],
           [
-            50,
+            30,
             0
           ],
           [
@@ -255,11 +255,11 @@
         "useWildSub": true,
         "multiplier": [
           [
-            150,
+            100,
             0
           ],
           [
-            50,
+            30,
             0
           ],
           [
@@ -281,11 +281,11 @@
         "useWildSub": true,
         "multiplier": [
           [
-            200,
+            125,
             0
           ],
           [
-            65,
+            50,
             0
           ],
           [
@@ -307,11 +307,11 @@
         "useWildSub": true,
         "multiplier": [
           [
-            200,
+            125,
             0
           ],
           [
-            65,
+            50,
             0
           ],
           [
@@ -338,10 +338,10 @@
         "Name": "Wild",
         "Id": 9,
         "reelInstance": {
-          "0": 10,
-          "1": 9,
-          "2": 7,
-          "3": 5,
+          "0": 12,
+          "1": 11,
+          "2": 9,
+          "3": 6,
           "4": 4
         },
         "description": "Substitutes for all symbols except Jackpot, Bonus, and Scatter.",
