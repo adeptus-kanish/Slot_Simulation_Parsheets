@@ -4,7 +4,6 @@
       "x": 5,
       "y": 4
     },
-
     "linesApiData": [
       [1, 1, 1, 1, 1],
       [2, 2, 2, 2, 2],
@@ -58,7 +57,7 @@
       [3, 2, 3, 2, 1],
     ],
     "bonusTriggerCount": 3,
-    "bonusTriggerCountDuringFreeSpin": 2,
+    "bonusTriggerCountDuringFreeSpin": 3,
     "bonusCount": [5, 4, 3],
     "bonusCountDuringFreeSpins": [2, 3, 4, 5],
     "freeSpinDuringBonus": [3, 5, 8, 10],
@@ -233,7 +232,7 @@
         "isBonusSymbol": false,
         "multiplier": [
           [
-            150,
+            100,
             0
           ],
           [
@@ -260,7 +259,7 @@
         "isBonusSymbol": false,
         "multiplier": [
           [
-            150,
+            100,
             0
           ],
           [
@@ -287,7 +286,7 @@
         "isBonusSymbol": false,
         "multiplier": [
           [
-            150,
+            100,
             0
           ],
           [
@@ -314,7 +313,7 @@
         "isBonusSymbol": false,
         "multiplier": [
           [
-            150,
+            100,
             0
           ],
           [
@@ -341,7 +340,7 @@
         "isBonusSymbol": false,
         "multiplier": [
           [
-            150,
+            100,
             0
           ],
           [
@@ -368,7 +367,7 @@
         "isBonusSymbol": false,
         "multiplier": [
           [
-            150,
+            100,
             0
           ],
           [
@@ -396,7 +395,7 @@
         "isBonusSymbol": false,
         "multiplier": [
           [
-            150,
+            100,
             0
           ],
           [
@@ -414,9 +413,9 @@
         "Id": 11,
         "reelInstance": {
           "0": 0,
-          "1": 17,
-          "2": 15,
-          "3": 13,
+          "1": 15,
+          "2": 13,
+          "3": 12,
           "4": 0
         },
         "description": "Substitutes all symbols except BonusSymbol, Appears on reels 2, 3, and 4 only",
@@ -430,11 +429,11 @@
         "Name": "Bonus",
         "Id": 12,
         "reelInstance": {
-          "0": 6,
-          "1": 6,
-          "2": 6,
-          "3": 6,
-          "4": 6
+          "0": 5,
+          "1": 5,
+          "2": 5,
+          "3": 5,
+          "4": 5
         },
         "description": "3 or more BonusSymbol symbols triggers the BONUS WHEEL FEATURE.\nIf 3 or more BonusSymbol symbols appear on the reel it will trigger the FREE GAME FEATURE for which  2 - 15 Freespin or 10 - 80 Multiplier can be awarded",
         "useWildSub": false,
